@@ -8,7 +8,7 @@
 // Any manual edit is overwritten by the next release; change the generator in
 // narya-ios instead.
 //
-// Version: 1.2.0
+// Version: 1.3.0
 
 import PackageDescription
 
@@ -31,13 +31,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MithraAnalytics",
-            url: "https://sdk.mithra.com/ios/MithraAnalytics-1.2.0.zip",
-            checksum: "60922b4659ac04da98ad3f1142b2bcb84895f062ae635b99aa5f84e7dced7835"
+            url: "https://sdk.mithra.com/ios/MithraAnalytics-1.3.0.zip",
+            checksum: "ed4d2d41547451711e889f725074ffce97c85ffb35cc5c0e946cb88c2abc927f"
         ),
         .binaryTarget(
             name: "MithraAnalyticsNotificationService",
-            url: "https://sdk.mithra.com/ios/MithraAnalyticsNotificationService-1.2.0.zip",
-            checksum: "8d55de9f90daae205755758ed476dfb8349038073f5c26531124c89684636ec9"
+            url: "https://sdk.mithra.com/ios/MithraAnalyticsNotificationService-1.3.0.zip",
+            checksum: "805c00e0827b141d910dc1736390ce8d66bf6e6757e5dea7822abd4f919c76d7"
         ),
     ]
 )
